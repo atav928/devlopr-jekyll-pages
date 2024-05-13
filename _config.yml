@@ -3,7 +3,7 @@ subtitle: A Portfolio Jekyll Theme Built for Developers
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://atav928.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
@@ -26,7 +26,7 @@ urls:
 
 author_logo: profile.png
 author: Adam Taveras
-author_bio: Hi, my name is Adam Taveras. This site is an extention of any `GitHub` projects generated.
+author_bio: Hi, my name is Adam Taveras. This site is an extension of any `GitHub` projects generated.
 author_email: "dev@tavnets.com"
 author_location: America
 author_website_url: "https://www.tavnets.com"
@@ -45,7 +45,7 @@ author_work_experiences:
               company_logo: raymond-james.png
               company_url: https://raymondjames.com
               designation: Lead Security Engineer
-              description: Worked on various AWS Securtiy Infrasture, Automating and Orchestrating Security Deployments, Coding Microservices that integrated between muliiple vendors.
+              description: Worked on various AWS Security Infrasture, Automating and Orchestrating Security Deployments, Coding Microservices that integrated between muliiple vendors.
               visibility: true
 
 # Education
@@ -88,10 +88,10 @@ medium_username: adam.taveras
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+#wakatime_username: sujaykundu777
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+#mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
